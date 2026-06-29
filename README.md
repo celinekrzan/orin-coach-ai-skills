@@ -4,8 +4,10 @@ Two [Claude Code](https://claude.com/claude-code) skills that hand the busywork 
 
 Part of the Coach's AI Starter Kit by [Orin Learning Intelligence](https://orinlearning.com).
 
-<!-- Drop a hero image here once you have one:
-![Two skills: prep before a session, synthesize after](assets/preview.png) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/preview-dark.png">
+  <img alt="Raw notes go in; session-prep and between-session-synth turn them into a session brief and a draft follow-up." src="assets/preview.png">
+</picture>
 
 Point them at your session notes and they will:
 
